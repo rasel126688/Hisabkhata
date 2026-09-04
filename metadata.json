@@ -1,0 +1,6 @@
+{
+  "name": "হিসাব খাতা",
+  "description": "হিসাব খাতা (Hisab Khata v3.0) - সহজ, আধুনিক ও নির্ভরযোগ্য ব্যক্তিগত হিসাব রাখার অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
